@@ -1,6 +1,6 @@
 {
   "name": "@or13/demojid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "./src/lib/index.js",
   "scripts": {
