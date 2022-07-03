@@ -1,0 +1,64 @@
+🌱 Seedling
+🌲 Evergreen Tree
+🌳 Deciduous Tree
+🌴 Palm Tree
+🌵 Cactus
+🌾 Sheaf of Rice
+🌿 Herb
+🍀 Four Leaf Clover
+🌻 Sunflower
+🌷 Tulip
+🍁 Maple Leaf
+🍄 Mushroom
+🌰 Chestnut
+🦀 Crab
+🦞 Lobster
+🦐 Shrimp
+🦑 Squid
+🐌 Snail
+🦋 Butterfly
+🐛 Bug
+🐜 Ant
+🐝 Honeybee
+🪲 Beetle
+🐞 Lady Beetle
+🦗 Cricket
+🪳 Cockroach
+🦂 Scorpion
+🦟 Mosquito
+🪰 Fly
+🪱 Worm
+🐋 Whale
+🐬 Dolphin
+🐟 Fish
+🐠 Tropical Fish
+🐡 Blowfish
+🦈 Shark
+🐙 Octopus
+🦅 Eagle
+🦆 Duck
+🦢 Swan
+🦉 Owl
+🦤 Dodo
+🪶 Feather
+🦩 Flamingo
+🦚 Peacock
+🦜 Parrot
+🐸 Frog
+🐊 Crocodile
+🐢 Turtle
+🦎 Lizard
+🐍 Snake
+🐅 Tiger
+🐆 Leopard
+🐒 Monkey
+🦍 Gorilla
+🦧 Orangutan
+🦓 Zebra
+🦌 Deer
+🦬 Bison
+🐐 Goat
+🐪 Camel
+🦙 Llama
+🦒 Giraffe
+🐇 Rabbit

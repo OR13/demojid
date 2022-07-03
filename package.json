@@ -1,0 +1,23 @@
+{
+  "name": "demojid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OR13/demojid.git"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OR13/demojid/issues"
+  },
+  "homepage": "https://github.com/OR13/demojid#readme",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "jest": "^28.1.2"
+  }
+}
