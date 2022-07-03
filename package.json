@@ -1,5 +1,5 @@
 {
-  "name": "demojid",
+  "name": "@or13/demojid",
   "version": "0.0.0",
   "description": "",
   "main": "./src/lib/index.js",
@@ -10,14 +10,22 @@
     "type": "git",
     "url": "git+https://github.com/OR13/demojid.git"
   },
+  "license": "Apache-2.0",
   "author": "Orie Steele",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/OR13/demojid/issues"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "src"
+  ],
   "homepage": "https://github.com/OR13/demojid#readme",
   "dependencies": {
-    "base64url": "^3.0.1",
+    "base64url": "^3.0.1"
+  },
+  "devDependencies": {
     "jest": "^28.1.2"
   }
 }
