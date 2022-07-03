@@ -60,3 +60,7 @@ const encoded = demojid.encode(message);
 const decoded = demojid.decode(encoded);
 // expect(decoded).toBe(message);
 ```
+
+### Larger Example
+
+<img src="./image.png" alt="npm package lock encoded as nature and animal emojis"/>
