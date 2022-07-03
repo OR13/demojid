@@ -1,8 +1,8 @@
 {
   "name": "demojid",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/lib/index.js",
   "scripts": {
     "test": "jest"
   },
