@@ -8,4 +8,5 @@ const alphabet = fs
     return emoji;
   });
 
-console.log(alphabet);
+// console.log(alphabet);
+fs.writeFileSync("./alphabet.json", JSON.stringify(alphabet, null, 2));

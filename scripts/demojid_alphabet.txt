@@ -62,3 +62,195 @@
 🦙 Llama
 🦒 Giraffe
 🐇 Rabbit
+🕳️ Hole
+🏺 Amphora
+🗺️ World Map
+🧭 Compass
+🧱 Brick
+🛢️ Oil Drum
+🧳 Luggage
+⏰ Alarm Clock
+🌡️ Thermometer
+🎈 Balloon
+🎏 Carp Streamer
+🤿 Diving Mask
+🔮 Crystal Ball
+🪁 Kite
+🕹️ Joystick
+🧸 Teddy Bear
+🪅 Piñata
+🧵 Thread
+🪡 Sewing Needle
+🧶 Yarn
+🪢 Knot
+📿 Prayer Beads
+💎 Gem Stone
+📻 Radio
+🪕 Banjo
+📠 Fax Machine
+🖨️ Printer
+💻 Laptop
+🖥️ Desktop Computer
+💾 Floppy Disk
+💿 Optical Disk
+🧮 Abacus
+📽️ Film Projector
+📺 Television
+📷 Camera
+📼 Videocassette
+🕯️ Candle
+💡 Light Bulb
+🔦 Flashlight
+📗 Green Book
+📘 Blue Book
+📙 Orange Book
+📚 Books
+📓 Notebook
+📒 Ledger
+📰 Newspaper
+🪙 Coin
+💴 Yen Banknote
+💵 Dollar Banknote
+💶 Euro Banknote
+💷 Pound Banknote
+💳 Credit Card
+📦 Package
+📮 Postbox
+🗳️ Ballot Box with Ballot
+🪓 Axe
+🪃 Boomerang
+🧲 Magnet
+🖊️ Pen
+🖌️ Paintbrush
+🖍️ Crayon
+📌 Pushpin
+📎 Paperclip
+🔑 Key
+🪜 Ladder
+💊 Pill
+🚪 Door
+🪑 Chair
+🪣 Bucket
+🧷 Safety Pin
+🧹 Broom
+🪦 Headstone
+🔬 Microscope
+🔭 Telescope
+🍇 Grapes
+🍈 Melon
+🍉 Watermelon
+🍊 Tangerine
+🍋 Lemon
+🍌 Banana
+🍍 Pineapple
+🥭 Mango
+🍎 Red Apple
+🍏 Green Apple
+🍐 Pear
+🍑 Peach
+🍒 Cherries
+🍓 Strawberry
+🫐 Blueberries
+🥝 Kiwi Fruit
+🍅 Tomato
+🫒 Olive
+🥥 Coconut
+🥑 Avocado
+🍆 Eggplant
+🥔 Potato
+🥕 Carrot
+🌽 Ear of Corn
+🌶️ Hot Pepper
+🫑 Bell Pepper
+🥒 Cucumber
+🥬 Leafy Green
+🥦 Broccoli
+🧄 Garlic
+🧅 Onion
+🍄 Mushroom
+🥜 Peanuts
+🌰 Chestnut
+🍞 Bread
+🥐 Croissant
+🥖 Baguette Bread
+🫓 Flatbread
+🥨 Pretzel
+🥯 Bagel
+🥞 Pancakes
+🧇 Waffle
+🧀 Cheese Wedge
+🍖 Meat on Bone
+🍗 Poultry Leg
+🥩 Cut of Meat
+🥓 Bacon
+🍔 Hamburger
+🍟 French Fries
+🍕 Pizza
+🌭 Hot Dog
+🥪 Sandwich
+🌮 Taco
+🌯 Burrito
+🫔 Tamale
+🥙 Stuffed Flatbread
+🧆 Falafel
+🥚 Egg
+🥘 Shallow Pan of Food
+🍲 Pot of Food
+🫕 Fondue
+🥣 Bowl with Spoon
+🥗 Green Salad
+🍿 Popcorn
+🧂 Salt
+🥫 Canned Food
+🍱 Bento Box
+🍘 Rice Cracker
+🍙 Rice Ball
+🍚 Cooked Rice
+🍛 Curry Rice
+🍜 Steaming Bowl
+🍝 Spaghetti
+🍠 Roasted Sweet Potato
+🍢 Oden
+🍣 Sushi
+🍤 Fried Shrimp
+🍥 Fish Cake with Swirl
+🥮 Moon Cake
+🍡 Dango
+🥟 Dumpling
+🥠 Fortune Cookie
+🥡 Takeout Box
+🦪 Oyster
+🍦 Soft Ice Cream
+🛶 Canoe
+🛼 Roller Skate
+🍨 Ice Cream
+🍩 Doughnut
+🍪 Cookie
+🎂 Birthday Cake
+🍰 Shortcake
+🧁 Cupcake
+🥧 Pie
+🍫 Chocolate Bar
+🍬 Candy
+🍭 Lollipop
+🍮 Custard
+🍯 Honey Pot
+🍼 Baby Bottle
+🥛 Glass of Milk
+🫖 Teapot
+🍶 Sake
+🍾 Bottle with Popping Cork
+🍷 Wine Glass
+🍸 Cocktail Glass
+🍹 Tropical Drink
+🍺 Beer Mug
+🍻 Clinking Beer Mugs
+🥂 Clinking Glasses
+🥃 Tumbler Glass
+🧋 Bubble Tea
+🧃 Beverage Box
+🧉 Mate
+🧊 Ice
+🥢 Chopsticks
+🍽️ Fork and Knife with Plate
+🥄 Spoon
